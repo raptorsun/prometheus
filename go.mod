@@ -15,7 +15,7 @@ require (
 	github.com/digitalocean/godo v1.104.1
 	github.com/docker/docker v24.0.6+incompatible
 	github.com/edsrzf/mmap-go v1.1.0
-	github.com/envoyproxy/go-control-plane v0.11.1
+	github.com/envoyproxy/go-control-plane v0.12.0
 	github.com/envoyproxy/protoc-gen-validate v1.0.2
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/go-kit/log v0.2.1
@@ -79,7 +79,7 @@ require (
 	google.golang.org/api v0.147.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20231012201019-e917dd12ba7a
 	google.golang.org/grpc v1.59.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.32.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.28.3
